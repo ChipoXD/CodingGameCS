@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CodinGame": {
+      "commandName": "Project"
+    },
+    "cube": {
+      "commandName": "Project"
+    }
+  }
+}
